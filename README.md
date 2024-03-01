@@ -34,16 +34,9 @@ Welcome to my space! I'm passionate about programming and technology. Here, you'
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
-## Here some of my repositories and collaborative works
-
-
-
-
-
 ## Github Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=CaloMorell&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaloMorell&layout=compact&theme=dark)
 
 
